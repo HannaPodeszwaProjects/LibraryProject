@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "766008862627",
-    "project_id": "waga-21ebd",
-    "storage_bucket": "waga-21ebd.appspot.com"
+    "project_number": "638361072169",
+    "firebase_url": "https://libraryproject-26e43-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "libraryproject-26e43",
+    "storage_bucket": "libraryproject-26e43.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:766008862627:android:31ff2dc18f949c4c995c16",
+        "mobilesdk_app_id": "1:638361072169:android:78ee52ccf147404209a238",
         "android_client_info": {
-          "package_name": "pl.polsl.waga"
+          "package_name": "pl.polsl.libraryproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "766008862627-8l9h79qcb2n3ml7lj2sgp027cgokiklh.apps.googleusercontent.com",
+          "client_id": "638361072169-rh4mn3nornqesb7vts2lcmatjkvd9s24.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAbn2sVUx4fi49WtcA8zaK1gwiLVUMWZTU"
+          "current_key": "AIzaSyBmBtwZm18ivEsYXWh8McZEhcxNagvgt6Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "766008862627-8l9h79qcb2n3ml7lj2sgp027cgokiklh.apps.googleusercontent.com",
+              "client_id": "638361072169-rh4mn3nornqesb7vts2lcmatjkvd9s24.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
